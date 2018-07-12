@@ -1,0 +1,8 @@
+public class MultiDimArrayDemo {
+    public static void main(String[] args) {
+        String [][] names =
+                { {"edwin","phide", "elly","jose","cathy"},{"wanyoike","shiku","mwangi"}};
+
+        System.out.println(names[0][0]);
+    }
+}
