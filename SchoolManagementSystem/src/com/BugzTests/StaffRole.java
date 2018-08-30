@@ -5,9 +5,7 @@ public class StaffRole {
     //overide toString method
     @Override
     public String toString() {
-        return "StaffRole{" +
-                "Designation='" + designation + '\'' +
-                '}';
+        return designation ;
     }
 
     //getters and setters for the class variables

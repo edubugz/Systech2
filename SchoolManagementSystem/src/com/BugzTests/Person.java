@@ -1,6 +1,8 @@
 package com.BugzTests;
 
-public class Person {
+import java.io.Serializable;
+
+public class Person implements Serializable {
     protected String IdNo;
     protected String name;
     protected String phoneNumber;

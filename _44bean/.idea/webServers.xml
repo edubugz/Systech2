@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b907e0ac-8ee3-41a4-bf25-8ed2e20f68b1" name="party time (project level)" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="C:\wildfly-13.0.0.Final" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

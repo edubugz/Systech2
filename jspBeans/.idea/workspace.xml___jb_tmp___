@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="264ba830-62d8-4fd9-b0cd-0b93dc4e0f76" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../CheckForValue/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckForValue/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckForValue/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckForValue/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckForValue/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckForValue/CheckForValue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckForValue/out/production/CheckForValue/com/BugzTests/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckForValue/src/com/BugzTests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBconnect/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBconnect/.idea/libraries/mysql_connector_java_8_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBconnect/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBconnect/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBconnect/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBconnect/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBconnect/DBconnect.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBconnect/out/production/DBconnect/com/BugzTests/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBconnect/src/com/BugzTests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EndMonth/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EndMonth/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EndMonth/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EndMonth/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EndMonth/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EndMonth/EndMonth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EndMonth/out/production/EndMonth/com/BugzTests/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EndMonth/src/com/BugzTests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashMap/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashMap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashMap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashMap/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashMap/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashMap/HashMap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashMap/out/production/HashMap/com/BugzTests/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashMap/src/com/BugzTests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IterateMapKeys/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IterateMapKeys/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IterateMapKeys/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IterateMapKeys/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IterateMapKeys/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IterateMapKeys/IterateMapKeys.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IterateMapKeys/out/production/IterateMapKeys/com/BugzTests/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IterateMapKeys/src/com/BugzTests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedHashSet/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedHashSet/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedHashSet/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedHashSet/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedHashSet/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedHashSet/LinkedHashSet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedHashSet/out/production/LinkedHashSet/com/BugzTests/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedHashSet/src/com/BugzTests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LowHighValuesTreeSet/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LowHighValuesTreeSet/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LowHighValuesTreeSet/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LowHighValuesTreeSet/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LowHighValuesTreeSet/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LowHighValuesTreeSet/LowHighValuesTreeSet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LowHighValuesTreeSet/src/com/BugzTests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SchoolManagementSystem.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SchoolManagementSystem/.idea/libraries/mysql_connector_java_8_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SchoolManagementSystem/out/production/SchoolManagementSystem/com/BugzTests/DBConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SchoolManagementSystem/out/production/SchoolManagementSystem/com/BugzTests/regStaff.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SchoolManagementSystem/out/production/SchoolManagementSystem/com/BugzTests/regStudent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SchoolManagementSystem/out/production/SchoolManagementSystem/staff_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SchoolManagementSystem/src/com/BugzTests/DBConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SchoolManagementSystem/src/com/BugzTests/regStaff.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SchoolManagementSystem/src/com/BugzTests/regStudent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SchoolManagementSystem/src/staff_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SizeOfATreeset/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SizeOfATreeset/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SizeOfATreeset/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SizeOfATreeset/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SizeOfATreeset/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SizeOfATreeset/SizeOfATreeset.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SizeOfATreeset/src/com/BugzTests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Treeset/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Treeset/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Treeset/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Treeset/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Treeset/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Treeset/Treeset.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Treeset/out/production/Treeset/com/BugzTests/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Treeset/out/production/Treeset/com/BugzTests/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Treeset/src/com/BugzTests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Treeset/src/com/BugzTests/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addElementAtIndex/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addElementAtIndex/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addElementAtIndex/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addElementAtIndex/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addElementAtIndex/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addElementAtIndex/addElementAtIndex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addElementAtIndex/out/production/addElementAtIndex/com/BugzTests/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addElementAtIndex/src/com/BugzTests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binaryTree/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binaryTree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binaryTree/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binaryTree/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binaryTree/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binaryTree/binaryTree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binaryTree/out/production/binaryTree/com/BugzTests/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binaryTree/out/production/binaryTree/com/BugzTests/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binaryTree/out/production/binaryTree/com/BugzTests/Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binaryTree/src/com/BugzTests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binaryTree/src/com/BugzTests/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binaryTree/src/com/BugzTests/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbTest/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbTest/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbTest/.idea/dataSources/44b1aca1-e9c5-4352-a6e8-03e812b6601b.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbTest/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbTest/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbTest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbTest/dbTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbTest/out/production/dbTest/com/BugzTests/DBlogic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbTest/out/production/dbTest/com/BugzTests/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbTest/src/com/BugzTests/DBlogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbTest/src/com/BugzTests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin/edwin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/.idea/dataSources/1249f095-99d0-4934-8afc-79bbdd6fbbd7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/SessionsDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/src/main/java/com/example/dblogic/DBlogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/src/main/java/com/example/servlet/DeleteUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/src/main/java/com/example/servlet/DeteminantServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/src/main/java/com/example/servlet/EditUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/src/main/java/com/example/servlet/SeeAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/src/main/java/com/example/servlet/loginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/src/main/java/com/example/servlet/registerServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/src/main/webapp/adminOperations.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/src/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/src/main/webapp/logout.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/src/main/webapp/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/src/main/webapp/userOperations.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/target/classes/com/example/dblogic/DBlogic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/target/classes/com/example/servlet/DeleteUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/target/classes/com/example/servlet/DeteminantServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/target/classes/com/example/servlet/EditUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/target/classes/com/example/servlet/SeeAll.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/target/classes/com/example/servlet/loginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/target/classes/com/example/servlet/registerServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/target/edwin2.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/target/edwin2/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/target/edwin2/WEB-INF/classes/com/example/dblogic/DBlogic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/target/edwin2/WEB-INF/classes/com/example/servlet/DeleteUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/target/edwin2/WEB-INF/classes/com/example/servlet/DeteminantServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/target/edwin2/WEB-INF/classes/com/example/servlet/EditUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/target/edwin2/WEB-INF/classes/com/example/servlet/SeeAll.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/target/edwin2/WEB-INF/classes/com/example/servlet/loginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/target/edwin2/WEB-INF/classes/com/example/servlet/registerServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/target/edwin2/WEB-INF/lib/mysql-connector-java-8.0.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/target/edwin2/WEB-INF/lib/protobuf-java-2.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/target/edwin2/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/target/edwin2/adminOperations.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/target/edwin2/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/target/edwin2/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/target/edwin2/logout.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/target/edwin2/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edwin2/target/edwin2/userOperations.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../factorial/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../factorial/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../factorial/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../factorial/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../factorial/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../factorial/factorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../factorial/out/production/factorial/com/BugzTests/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../factorial/src/com/BugzTests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../floydTriangle/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../floydTriangle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../floydTriangle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../floydTriangle/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../floydTriangle/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../floydTriangle/floydTriangle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../floydTriangle/hs_err_pid4068.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../floydTriangle/out/production/floydTriangle/com/BugzTests/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../floydTriangle/replay_pid4068.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../floydTriangle/src/com/BugzTests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../for34/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../for34/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../for34/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../for34/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../for34/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../for34/for34.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../for34/out/production/for34/com/BugzTests/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../for34/src/com/BugzTests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashIt/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashIt/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashIt/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashIt/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashIt/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashIt/hashIt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashIt/out/production/hashIt/com/BugzTests/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashIt/spc.f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashIt/src/com/BugzTests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashIt/src/spc.f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashSetToArray/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashSetToArray/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashSetToArray/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashSetToArray/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashSetToArray/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashSetToArray/hashSetToArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashSetToArray/src/com/BugzTests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashmap2/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashmap2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashmap2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashmap2/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashmap2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashmap2/hashmap2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashmap2/out/production/hashmap2/com/BugzTests/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashmap2/src/com/BugzTests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inteli/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inteli/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inteli/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inteli/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inteli/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inteli/inteli.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inteli/out/production/inteli/com/BugzTests/KeyGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inteli/out/production/inteli/com/BugzTests/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inteli/src/com/BugzTests/KeyGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inteli/src/com/BugzTests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedLists/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedLists/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedLists/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedLists/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedLists/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedLists/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedLists/linkedLists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedLists/out/production/linkedLists/com/BugzTests/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedLists/out/production/linkedLists/com/BugzTests/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedLists/src/com/BugzTests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedLists/src/com/BugzTests/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedLists/staff.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedLists/student.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mapArr/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mapArr/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mapArr/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mapArr/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mapArr/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mapArr/mapArr.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mapArr/src/com/BugzTests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prioques/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prioques/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prioques/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prioques/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prioques/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prioques/out/production/prioques/com/BugzTests/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prioques/prioques.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prioques/src/com/BugzTests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stackImplementation/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stackImplementation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stackImplementation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stackImplementation/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stackImplementation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stackImplementation/out/production/stackImplementation/com/BugzTests/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stackImplementation/src/com/BugzTests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stackImplementation/stackImplementation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../syncMethods/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../syncMethods/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../syncMethods/.idea/dataSources/80c55f31-a10f-4cf4-8208-d22481beab1b.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../syncMethods/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../syncMethods/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../syncMethods/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../syncMethods/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../syncMethods/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../syncMethods/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../syncMethods/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../syncMethods/out/production/syncMethods/com/BugzTests/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../syncMethods/src/com/BugzTests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../syncMethods/src/com/BugzTests/cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../syncMethods/syncMethods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread_50/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread_50/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread_50/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread_50/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread_50/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread_50/src/com/BugzTests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread_50/thread_50.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../threads/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../threads/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../threads/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../threads/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../threads/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../threads/out/production/threads/com/BugzTests/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../threads/out/production/threads/com/BugzTests/Thread2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../threads/src/com/BugzTests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../threads/src/com/BugzTests/Thread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../threads/threads.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/src/com/BugzTests/.idea/BugzTests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/src/com/BugzTests/.idea/libraries/mysql_connector_java_8_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/src/com/BugzTests/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/src/com/BugzTests/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/src/com/BugzTests/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/src/com/BugzTests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/untitled3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolManagementSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SchoolManagementSystem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolManagementSystem/SchoolManagementSystem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SchoolManagementSystem/SchoolManagementSystem.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolManagementSystem/out/production/SchoolManagementSystem/com/BugzTests/Guardian.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SchoolManagementSystem/out/production/SchoolManagementSystem/com/BugzTests/Guardian.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolManagementSystem/out/production/SchoolManagementSystem/com/BugzTests/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SchoolManagementSystem/out/production/SchoolManagementSystem/com/BugzTests/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolManagementSystem/out/production/SchoolManagementSystem/com/BugzTests/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SchoolManagementSystem/out/production/SchoolManagementSystem/com/BugzTests/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolManagementSystem/out/production/SchoolManagementSystem/com/BugzTests/Register.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SchoolManagementSystem/out/production/SchoolManagementSystem/com/BugzTests/Register.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolManagementSystem/out/production/SchoolManagementSystem/com/BugzTests/Staff.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SchoolManagementSystem/out/production/SchoolManagementSystem/com/BugzTests/Staff.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolManagementSystem/out/production/SchoolManagementSystem/com/BugzTests/StaffRole.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SchoolManagementSystem/out/production/SchoolManagementSystem/com/BugzTests/StaffRole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolManagementSystem/out/production/SchoolManagementSystem/com/BugzTests/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SchoolManagementSystem/out/production/SchoolManagementSystem/com/BugzTests/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolManagementSystem/out/production/SchoolManagementSystem/com/BugzTests/readFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SchoolManagementSystem/out/production/SchoolManagementSystem/com/BugzTests/readFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolManagementSystem/src/com/BugzTests/Guardian.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SchoolManagementSystem/src/com/BugzTests/Guardian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolManagementSystem/src/com/BugzTests/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SchoolManagementSystem/src/com/BugzTests/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolManagementSystem/src/com/BugzTests/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SchoolManagementSystem/src/com/BugzTests/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolManagementSystem/src/com/BugzTests/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SchoolManagementSystem/src/com/BugzTests/Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolManagementSystem/src/com/BugzTests/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SchoolManagementSystem/src/com/BugzTests/Staff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolManagementSystem/src/com/BugzTests/StaffRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SchoolManagementSystem/src/com/BugzTests/StaffRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolManagementSystem/src/com/BugzTests/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SchoolManagementSystem/src/com/BugzTests/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolManagementSystem/src/com/BugzTests/readFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SchoolManagementSystem/src/com/BugzTests/readFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolManagementSystem/staff.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../SchoolManagementSystem/staff.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolManagementSystem/sts" beforeDir="false" afterPath="$PROJECT_DIR$/../hashIt/out/production/hashIt/spc.f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolManagementSystem/students.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../SchoolManagementSystem/students.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drawPatterns" beforeDir="false" afterPath="$PROJECT_DIR$/../drawPatterns" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keyboardToFile" beforeDir="false" afterPath="$PROJECT_DIR$/../keyboardToFile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jspBeans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="jspBeans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="264ba830-62d8-4fd9-b0cd-0b93dc4e0f76" name="Default" comment="" />
+      <created>1535034754882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535034754882</updated>
+      <workItem from="1535034759866" duration="864000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="864000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" visible="true" weight="0.32843137" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
